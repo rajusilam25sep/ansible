@@ -1,0 +1,24 @@
+---
+- myStudnt:
+  - name: Raju
+    phno: 73015894
+    address: klmgl
+       doorno:
+       street:
+       pincod:
+
+  - name: Lalit
+    phno: 6531653
+    address: sdlfjlksdj
+       doorno:
+       street:
+       pincod:
+    
+
+  - name: Lata
+    phno: 232156123
+    address: skfalksjfa
+       doorno:
+       street:
+       pincod:
+
